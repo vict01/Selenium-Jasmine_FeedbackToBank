@@ -1,0 +1,17 @@
+{
+    "name": "gbhqatest-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "my-browser.js",
+    "scripts": {
+        "test": "jasmine"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jasmine": "^3.5.0",
+        "log4js": "^6.1.0",
+        "selenium-webdriver": "^4.0.0-alpha.5"
+    }
+}

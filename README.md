@@ -63,7 +63,7 @@ Then save this chrome driver into "C:\AutomationProjectJS\testing-framework\web-
 #### Note: For this test it was used Chrome browser version 84, therefore if you have this version you don't need to do the step 4. 
 5. Open terminal console and make sure you are in the root paht of the project, then install the dependencies by executing "npm install" command.
 
-## Instruction to run the tests:
+## Instructions to run the tests:
 1. Open terminal console and make sure you are in the root paht of the project, then run the tests by executing "npm run test" command.
 2. Pay attention while test runs in the browser. Both test mentioned in the Test Scope section will run one after the other, with a small interval of time between them.
 3. Once test finish to run, in the console terminal of your IDE, you can see the testing summary report, with its corresponding steps, validations and results.
